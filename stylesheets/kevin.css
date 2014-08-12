@@ -1,0 +1,33 @@
+.main-header{
+	-webkit-box-shadow: 0px 1px 1px grey;
+	-moz-box-shadow: 0px 1px 1px grey;
+	box-shadow: 0px 1px 1px grey;
+}
+.top-left-header{
+	padding:25px 0;
+}
+.top-left-header img {
+	height: 100px;
+	width: auto;
+	border-radius: 255px;
+	float:left;
+}
+.top-left-header h1{
+	float:left;
+}
+.top-right-menu{
+	float:right;
+	width:380px;
+}
+.top-right-menu ul li{
+	float:left;
+	padding:0 10px;
+}
+h1.contain{
+	margin: 100px auto;
+	width: 175px;
+	text-align: center;
+}
+.circle-percent {
+	float: left;
+}
