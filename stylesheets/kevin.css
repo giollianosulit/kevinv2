@@ -31,3 +31,79 @@ h1.contain{
 .circle-percent {
 	float: left;
 }
+
+body {
+	font-family: 'Muli', sans-serif;
+}
+
+/*********
+Header
+**********/
+
+.h1-name {
+	font-family: 'Muli', sans-serif;
+	font-weight: bold;
+	font-size: 32px;
+}
+
+/*********
+Adject
+**********/
+
+.adject {
+	font-family: 'Muli', sans-serif;
+}
+
+/*********
+Who Am I
+**********/
+.who {
+	font-family: 'Muli', sans-serif;
+}
+
+.who-desc {
+	width: 800px;
+	font-size: 23px;
+	line-height: 37px;
+	margin-top: 20px;
+	margin: auto;
+	text-align: center;
+}
+
+/*********
+Technologies
+**********/
+
+.technology-h1 {
+	font-family: 'Muli', sans-serif;
+	text-align: right;
+	margin-top: 100px;
+}
+
+.tech-p {
+	font-size: 23px;
+	width: 800px;
+	margin: auto;
+	line-height: 37px;
+	text-align: center;
+}
+
+.skill-circle {
+	width: 800px;
+	margin: auto;
+}
+
+/**********
+Contact
+***********/
+.contact {
+	font-family: 'Muli', sans-serif;
+	margin-top: 100px;
+	font-size: 34px;
+}
+
+.contact-p {
+font-size: 18px;
+line-height: 26px;
+}
+
