@@ -23,11 +23,12 @@
 	float:left;
 	padding:0 10px;
 }
-h1.contain{
-	margin: 100px auto;
+h1.contain {
+	margin: 1px auto;
 	width: 175px;
 	text-align: center;
 }
+
 .circle-percent {
 	float: left;
 }
@@ -49,12 +50,12 @@ Header
 }
 
 .header-ul {
-margin-top: 26px;
+	margin-top: 26px;
 }
 
 .top-right-menu {
-float: right;
-width: 275px;
+	float: right;
+	width: 275px;
 }
 
 /*********
@@ -65,11 +66,28 @@ Adject
 	font-family: 'Muli', sans-serif;
 }
 
+.section-1 {
+	background-image: url("images/i-am-bg.jpg");
+	height: 545px;
+	margin-top: 0;
+	background-position-y: -362px;
+}
+
 /*********
 Who Am I
 **********/
 .who {
 	font-family: 'Muli', sans-serif;
+	background-color: slategray;
+	color: white;
+	padding: 7px 10px;
+	margin-top: 20px;
+}
+
+
+.who:hover {
+	background-color: slategray;
+	opacity: 0.80;
 }
 
 .who-desc {
@@ -89,6 +107,15 @@ Technologies
 	font-family: 'Muli', sans-serif;
 	text-align: right;
 	margin-top: 100px;
+	background-color: slategray;
+	color: white;
+	padding: 7px 10px;
+
+}
+
+.technology-h1:hover {
+	background-color: slategray;
+	opacity: 0.80;
 }
 
 .tech-p {
