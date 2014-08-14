@@ -4,7 +4,7 @@
 	box-shadow: 0px 1px 1px grey;
 }
 .top-left-header{
-	padding:25px 0;
+	padding:10px 0;
 }
 .top-left-header img {
 	height: 100px;
@@ -50,7 +50,7 @@ Header
 }
 
 .header-ul {
-	margin-top: 26px;
+	margin-top: 43px;
 }
 
 .top-right-menu {
@@ -58,20 +58,13 @@ Header
 	width: 275px;
 }
 
-/*********
-Adject
-**********/
-
-.adject {
-	font-family: 'Muli', sans-serif;
+.head-a {
+text-decoration: none;
 }
 
-.section-1 {
-background: url("images/i-am-bg.png");
-height: 565px;
-background-position-y: -309px;
+header.main-header {
+	height: 119px;
 }
-
 
 /*********
 Who Am I
