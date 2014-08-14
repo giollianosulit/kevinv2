@@ -67,11 +67,11 @@ Adject
 }
 
 .section-1 {
-	background-image: url("images/i-am-bg.jpg");
-	height: 545px;
-	margin-top: 0;
-	background-position-y: -362px;
+background: url("images/i-am-bg.png");
+height: 565px;
+background-position-y: -309px;
 }
+
 
 /*********
 Who Am I
@@ -83,6 +83,7 @@ Who Am I
 	padding: 7px 10px;
 	margin-top: 20px;
 }
+
 
 
 .who:hover {
