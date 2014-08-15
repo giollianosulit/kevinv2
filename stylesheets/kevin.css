@@ -19,9 +19,9 @@
 	float:right;
 	width:380px;
 }
-.top-right-menu ul li{
-	float:left;
-	padding:0 10px;
+.top-right-menu ul li {
+float: right;
+padding: 0 10px;
 }
 h1.contain {
 	margin: 1px auto;
@@ -55,7 +55,7 @@ Header
 
 .top-right-menu {
 float: right;
-width: 318px;
+width: 340px;
 }
 
 .head-li {
